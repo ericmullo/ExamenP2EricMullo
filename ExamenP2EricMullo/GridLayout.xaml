@@ -6,25 +6,15 @@
     <Grid RowDefinitions="*,*" ColumnDefinitions="*,*">
         <Label Text="Primer Nombre"
               Grid.Row="0" Grid.Column="0"
-              FontSize="20"
-              HorizontalOptions="Center"
-              VerticalOptions="Center" />
+              Style="{StaticResource NombreStyle}" />
         <Label Text="Segundo Nombre"
               Grid.Row="0" Grid.Column="1"
-              FontSize="20"
-              HorizontalOptions="Center"
-              VerticalOptions="Center" />
+              Style="{StaticResource NombreStyle}" />
         <Label Text="Primer Apellido"
               Grid.Row="1" Grid.Column="0"
-              FontSize="20"
-              TextColor="Red"
-              HorizontalOptions="Center"
-              VerticalOptions="Center" />
+              Style="{StaticResource ApellidoStyle}" />
         <Label Text="Segundo Apellido"
               Grid.Row="1" Grid.Column="1"
-              FontSize="20"
-              TextColor="Red"
-              HorizontalOptions="Center"
-              VerticalOptions="Center" />
+              Style="{StaticResource ApellidoStyle}" />
     </Grid>
 </ContentPage>
