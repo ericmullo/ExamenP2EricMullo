@@ -42,14 +42,14 @@
 
 
 
-            <Label x:Name="JLbl_Resumen"
+            <Label x:Name="JLbl_ResumenEMullo"
                    Text="Seleccione una recarga para ver el resumen."
                    FontSize="16"
                    TextColor="Gray"
                    HorizontalOptions="Center" />
 
             
-            <Button x:Name="JBtn_Recargar"
+            <Button x:Name="JBtn_RecargarEMullo"
                     Text="Recargar"
                     FontSize="18"
                     BackgroundColor="Purple"
