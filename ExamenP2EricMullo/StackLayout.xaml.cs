@@ -14,15 +14,7 @@ namespace ExamenP2EricMullo
         private async void JBtn_Recargar_Click(object sender, EventArgs e)
         {
            
-          
 
-            
-           
-           
-          
-
-            
-            
         }
 
       
