@@ -24,14 +24,24 @@
                    TextColor="Black"
                    BackgroundColor="#EDEDED"
                    HorizontalOptions="FillAndExpand" />
+            <Label Text="Ingrese su nombre:"
+                   FontSize="18"
+                   TextColor="Black"/>
+            <Entry x:Name="JTex_Nombre"
+                   Placeholder="Nombre del usuario"
+                   Keyboard="Numeric"
+                   FontSize="16"
+                   TextColor="Black"
+                   BackgroundColor="#EDEDED"
+                   HorizontalOptions="FillAndExpand"/>
 
-           
-            
 
-          
-            
 
-            
+
+
+
+
+
             <Label x:Name="JLbl_Resumen"
                    Text="Seleccione una recarga para ver el resumen."
                    FontSize="16"
