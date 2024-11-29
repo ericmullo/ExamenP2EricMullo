@@ -4,16 +4,16 @@
             BackgroundColor="White"
             Title="Datos Personales">
     <Grid RowDefinitions="*,*" ColumnDefinitions="*,*">
-        <Label Text="Primer Nombre"
+        <Label Text="Eric "
               Grid.Row="0" Grid.Column="0"
               Style="{StaticResource NombreStyle}" />
-        <Label Text="Segundo Nombre"
+        <Label Text="Rodrigo"
               Grid.Row="0" Grid.Column="1"
               Style="{StaticResource NombreStyle}" />
-        <Label Text="Primer Apellido"
+        <Label Text="Mullo"
               Grid.Row="1" Grid.Column="0"
               Style="{StaticResource ApellidoStyle}" />
-        <Label Text="Segundo Apellido"
+        <Label Text="Cañadas"
               Grid.Row="1" Grid.Column="1"
               Style="{StaticResource ApellidoStyle}" />
     </Grid>

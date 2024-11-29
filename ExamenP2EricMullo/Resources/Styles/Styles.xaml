@@ -11,7 +11,7 @@
 
     <Style x:Key="ApellidoStyle" TargetType="Label">
         <Setter Property="FontSize" Value="20" />
-        <Setter Property="TextColor" Value="Red" />
+        <Setter Property="TextColor" Value="Green" />
         <Setter Property="HorizontalOptions" Value="Center" />
         <Setter Property="VerticalOptions" Value="Center" />
     </Style>
